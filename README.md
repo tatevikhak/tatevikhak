@@ -1,8 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tatevik Hakobyan
 ========================================================================================================================================
 
-Business Analyst
-----------------
+
 
 I am an Industrial Engineer currently studying Business Analytics at USC Marshall School of Business. My passion lies at the intersection of technology and human connection. My Master's thesis on CRM supports my deep understanding of the importance of customer relationships in any business landscape. I am willing to bring my technical skills with human abilities to really create a value in company.
 
