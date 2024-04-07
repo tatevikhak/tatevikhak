@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-I am an Industrial Engineer currently studying Business Analytics at USC Marshall School of Business. My passion lies at the intersection of technology and human connection. My Master's thesis on CRM supports my deep understanding of the importance of customer relationships in any business landscape. I am willing to bring my technical skills with human abilities to really create a value in company.
+I am an Industrial Engineer currently studying Business Analytics at USC Marshall School of Business. My passion lies at the intersection of technology and human connection. My Master's thesis on CRM supports my deep understanding of the importance of customer relationships in any business landscape. I have hands on experience with Python, R, SQL, NoSQL, Microsoft Excel and BI tools. I am willing to bring my technical skills with human abilities to really create a value in company.
 
 * 🌍  I'm based in Los Angeles, California
 * ✉️  You can contact me at [tatevikhak83@gmail.com](mailto:tatevikhak83@gmail.com)
@@ -11,12 +11,7 @@ I am an Industrial Engineer currently studying Business Analytics at USC Marshal
 * 🤝  I'm open to collaborating on Cool projects
 * ⚡  I love working in cross functional teams
 
-### Skills
 
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-</p>
 
 
 ### Socials
